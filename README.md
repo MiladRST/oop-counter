@@ -1,1 +1,1 @@
-#### OOP JavaScript Counter
+#### OOP { JavaScript Counter }
